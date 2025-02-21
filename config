@@ -1,3 +1,4 @@
+command=/home/basile/.nix-profile/bin/zsh
 font-family=JetBrainsMono Nerd Font
 window-padding-x=8
 window-padding-y=8
